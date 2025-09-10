@@ -27,6 +27,5 @@ Este projeto é um aplicativo que apresenta os **monitores do DPD** em um **carr
 
 ### 🌐 Backend (API)
 
-- **Opções possíveis:**
   - Node.js com Express
 
